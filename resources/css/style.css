@@ -1,5 +1,38 @@
+*{margin:0px ;padding:0px;}
 body{
-
-background-color: aqua;
-
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
+.header{
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+.subheader{
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
+.guide{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+.title{
+    font-size: 21px;
+    color: gray;
+}
+footer{
+    text-align:right;
+    color: gray;
+}
+
+.space5{height:0.3em; display:block;}
+.space10{height:0.6em; display:block;}
+.space20{height:1.2em; display:block;}
+.space25{height:1.5em; display:block;}
+.space30{height:1.8em; display:block;}
+.space35{height:2.1em; display:block;}
+.space40{height:2.5em; display:block;}
+.space50{height:3.1em; display:block;}
